@@ -11,7 +11,6 @@ cgpa = 9.9
 # 34age = 4 # Invalid because variable cannot start with a number
 age = 32 # Valid because variable can start with a number 
 # a$$ge = 45 # Invlaid because variables cannot contain special characters other than _
-
 # Python supports several built-in data types:
 #     Integers (int): Whole numbers (e.g., 10, -5).
 #     Floats (float): Decimal numbers (e.g., 3.14, -0.001).
